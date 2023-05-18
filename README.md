@@ -5,7 +5,7 @@
 </span>
 
 <div align="center">
-<img src="https://github.com/yasminefontenele/yasminefontenele/assets/124527907/6f2591f6-522a-42be-a96c-0663de5b5dfd"50px" />
+<img src="https://github.com/yasminefontenele/yasminefontenele/assets/124527907/6f2591f6-522a-42be-a96c-0663de5b5dfd"5px" />
 </div>
 
 ##
