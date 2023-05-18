@@ -34,5 +34,3 @@
 
 | [![yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminefontenele&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&theme=dracula)](https://github.com/yasminefontenele?tab=repositories) | [![yasmine's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminefontenele&layout=compact&hide_border=true&theme=dracula)](https://github.com/yasminefontenele?tab=repositories) |
 |:-:|:-:|
-
-![Snake animation](https://github.com/yasminefontenele/yasminefontenele/blob/output/github-contribution-grid-snake.svg)
