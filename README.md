@@ -11,8 +11,6 @@
 ##
 - 🎓  Graduated architect and urbanist
 - 🌱  I’m currently studying software development at 42 Porto
-- 💬  42Cadet's are welcome to talk to me on slack (yfontene)
-
 ##
 
 📫  How to reach me:
