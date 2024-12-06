@@ -34,6 +34,7 @@
 |:-:|:-:|
 
 
-[![Languages](https://github-readme-stats.vercel.app/api?username=yasminefontenele&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/yasminefontenele)
+| [![Languages](https://github-readme-stats.vercel.app/api?username=yasminefontenele&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/yasminefontenele) | [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminefontenele&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/yasminefontenele) |
 
-[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminefontenele&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/yasminefontenele)
+
+
