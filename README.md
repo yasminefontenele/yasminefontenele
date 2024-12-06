@@ -36,5 +36,7 @@
 
 | [![Languages](https://github-readme-stats.vercel.app/api?username=yasminefontenele&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/yasminefontenele) | [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminefontenele&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/yasminefontenele) |
 
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
 
 
