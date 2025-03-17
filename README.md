@@ -22,17 +22,9 @@
 	<a href="https://www.linkedin.com/in/yasminefontenele/">
 		<img alt="Linkedine" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasminefontenenele/" />
 	</a>
-	<span> * </span>
-	<a href="https://www.instagram.com/yasminefontenele/">
-		<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logoColor=white&link=https://www.instagram.com/yasminefontenele/" />
-	</a>
 </p>
 
 ###
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/yfontene" alt="yfontene's 42 stats" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yfontene&label=Profile%20views&color=0e75b6&style=flat" alt="yfontene" /> </p>
 
 [![Languages](https://github-readme-stats.vercel.app/api?username=yasminefontenele&show_icons=true&theme=dracula&hide_border=true&count_private=true&hide=issues&card_width=300)](https://github.com/yasminefontenele) [![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminefontenele&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=dracula&hide_border=true)](https://github.com/yasminefontenele)
 
